@@ -6,7 +6,7 @@ import { Main } from "../components/Layout/Main/Main";
 
 const list = [
     {
-        link: 'woman', title: 'Женщины', categories: [
+        link: 'women', title: 'Женщины', categories: [
             { link: 'bras', title: 'Бюстгальтеры' },
             { link: 'panties', title: 'Трусы' },
             { link: 'socks', title: 'Носки' },
@@ -16,7 +16,7 @@ const list = [
         ]
     },
     {
-        link: 'man', title: 'Мужчины', categories: [
+        link: 'men', title: 'Мужчины', categories: [
             { link: 'panties', title: 'Трусы' },
             { link: 'socks', title: 'Носки' },
             { link: 'bathrobes', title: 'Халаты' },
